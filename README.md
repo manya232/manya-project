@@ -1,4 +1,4 @@
 # manya-project
 first project
 <br>
-author-manya
+author-manya is good
